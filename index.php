@@ -1,2 +1,2 @@
 <?php
-include __DIR__ . 'router.phar';
+include 'router.phar';
